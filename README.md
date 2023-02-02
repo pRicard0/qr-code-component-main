@@ -6,8 +6,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./design/screenshot.PNG)
 
 ## Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-component-2qMFQHp2rF](https://www.frontendmentor.io/solutions/qr-component-2qMFQHp2rF)
+- Live Site URL: [https://pricard0.github.io/qr-code-component-main/](https://pricard0.github.io/qr-code-component-main/)
 
 ## My process
 This is my first front-end project. My first time using flexbox. I think I managed to put into practive almost everything I learned. It took me around two hours at most to finish the project. Probably if I do it again next week I could get it in 30 minutes.
