@@ -19,14 +19,14 @@ main {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    border-radius: 15px;
+    border-radius: 16px;
     align-self: center;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.100);
 }
 
 img {
     width: 276px;
-    border-radius: 10px;
+    border-radius: 12px;
     margin-top: 15px;
 }
 
