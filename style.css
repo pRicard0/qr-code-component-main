@@ -14,8 +14,8 @@ body {
 
 main {
     background-color: white;
-    width: 300px;
-    height: 475px;
+    width: 310px;
+    height: 490px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -25,7 +25,7 @@ main {
 }
 
 img {
-    width: 270px;
+    width: 276px;
     border-radius: 10px;
     margin-top: 15px;
 }
